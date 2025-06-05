@@ -1,12 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <img src="./banner.jpg" alt="21-000-000 Logo" width="1280">
+  <br />
+  <br />
+  <p>
+    <a href="./readme.en.md">🇬🇧 English version</a> •
+    <a href="./readme.cs.md">🇨🇿 Česká verze</a> •
+    <a href="https://21ooo.ooo">Website</a> •
+    <a href="https://github.com/21-000-000">GitHub</a>
+  </p>
+  <p>©2025 • 21.000.000 • Bitcoin Dev Community • Released under MIT License</p>
+</div>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
