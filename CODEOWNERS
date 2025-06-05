@@ -1,0 +1,30 @@
+# Global ownership for 21.000.000 organization
+# This file defines code owners for the .github repository
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Global owners - these users are default owners for everything in the repository
+* @21-000-000/maintainers
+
+# GitHub specific configurations
+/.github/ @21-000-000/admin
+/.github/workflows/ @21-000-000/admin @21-000-000/devops
+
+# Security and governance files
+SECURITY.md @21-000-000/security-team
+GOVERNANCE.md @21-000-000/maintainers
+CODE_OF_CONDUCT.md @21-000-000/maintainers
+
+# Contributing and support documentation  
+CONTRIBUTING.md @21-000-000/maintainers
+SUPPORT.md @21-000-000/maintainers
+
+# Funding and organizational files
+FUNDING.yml @21-000-000/admin
+
+# Issue and PR templates
+/ISSUE_TEMPLATE/ @21-000-000/maintainers
+PULL_REQUEST_TEMPLATE.md @21-000-000/maintainers
+
+# Dependencies and automation
+dependabot.yml @21-000-000/devops
+RENOVATE.json @21-000-000/devops

@@ -1,0 +1,33 @@
+# Funding options for 21.000.000 organization
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button
+
+# GitHub Sponsors
+github: [21-000-000]
+
+# Open Collective
+# open_collective: 21-000-000
+
+# Patreon
+# patreon: 21000000
+
+# Tidelift
+# tidelift: npm/21-000-000
+
+# Community Bridge
+# community_bridge: 21-000-000
+
+# Liberapay
+# liberapay: 21-000-000
+
+# IssueHunt
+# issuehunt: 21-000-000
+
+# Buy Me a Coffee
+# ko_fi: 21000000
+
+# Custom funding options (Bitcoin addresses, BTCpay links, etc.)
+custom: [
+  "https://btcpay.21000000.info",
+  "bitcoin:bc1q21000000bitcoindevs",
+  "lightning:21000000@walletofsatoshi.com"
+]
