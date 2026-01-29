@@ -72,7 +72,7 @@ Thank you for your interest in contributing to 21.000.000 organization projects!
 ### General Coding Standards
 
 - Follow stylistic conventions for the respective language
-  - JavaScript/TypeScript: [Prettier](https://prettier.io/) + [ESLint](https://eslint.org/)
+  - JavaScript/TypeScript: [Biome](https://biomejs.dev/)
   - Python: [Black](https://black.readthedocs.io/) + [PEP 8](https://pep8.org/)
   - Rust: [rustfmt](https://github.com/rust-lang/rustfmt) + [Clippy](https://github.com/rust-lang/rust-clippy)
   - Go: [gofmt](https://golang.org/cmd/gofmt/) + [golint](https://github.com/golang/lint)
@@ -221,7 +221,7 @@ Děkujeme za váš zájem přispět do projektů organizace 21.000.000! Tento do
 ### Obecné standardy kódování
 
 - Dodržujte stylistické konvence pro příslušný jazyk
-  - JavaScript/TypeScript: [Prettier](https://prettier.io/) + [ESLint](https://eslint.org/)
+  - JavaScript/TypeScript: [Biome](https://biomejs.dev/)
   - Python: [Black](https://black.readthedocs.io/) + [PEP 8](https://pep8.org/)
   - Rust: [rustfmt](https://github.com/rust-lang/rustfmt) + [Clippy](https://github.com/rust-lang/rust-clippy)
   - Go: [gofmt](https://golang.org/cmd/gofmt/) + [golint](https://github.com/golang/lint)
